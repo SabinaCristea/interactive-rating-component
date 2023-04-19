@@ -1,0 +1,65 @@
+@media (max-width: 34em) {
+  html {
+    font-size: 50%;
+  }
+
+  .component-1,
+  .component-2 {
+    width: 32.7rem;
+    height: 36rem;
+
+    border-radius: 1.5rem;
+  }
+
+  .title {
+    font-size: 2.4rem;
+  }
+
+  .description-text {
+    font-size: 1.4rem;
+  }
+
+  .before-rating-component {
+    margin: 2.4rem 2.4rem 3.2rem 2.4rem;
+  }
+
+  .star-icon {
+    padding: 1.33rem;
+    margin-bottom: 1.6rem;
+  }
+
+  .star {
+    /* width: 1.4rem;
+    height: 1.33rem; */
+  }
+
+  .rating-values {
+    column-gap: 1.8rem;
+    margin-bottom: 2.4rem;
+  }
+
+  .rating-value {
+    padding: 2.1rem;
+  }
+
+  .submit-button {
+    font-size: 1.4rem;
+    padding: 1.2rem 10.9rem;
+  }
+
+  .after-rating-component {
+    margin: 3.4rem 2.4rem 3.7rem 2.4rem;
+  }
+
+  .thank-you-photo {
+    width: 14.4rem;
+    height: 9.6rem;
+    margin-bottom: 2.4rem;
+  }
+
+  .value-selected-text {
+    font-size: 1.4rem;
+    padding: 0.6rem 1.8rem;
+    margin-bottom: 2.4rem;
+  }
+}
